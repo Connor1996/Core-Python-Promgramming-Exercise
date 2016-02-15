@@ -1,7 +1,7 @@
 from socket import *
 
 HOST = '127.0.0.1'
-PORT = 50007
+PORT = 50008
 ADDR = (HOST, PORT)
 
 client = socket(AF_INET, SOCK_STREAM)

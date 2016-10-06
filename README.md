@@ -1,2 +1,2 @@
 # Core-Python-Promgramming-Exercise
-这是习题集
+There are some exercise when I am learning Python.
